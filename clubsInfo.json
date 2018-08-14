@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5b6f43331c5747ef55cd8292",
+    "name": "Arsenal FC",
+    "picture": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/598117/arsenal.png",
+    "description": "<p>In late 1886, a gaggle of workers from the Woolwich Arsenal Armament Factory decided to form a football team. They called themselves Dial Square as a reference to the sundial atop the entrance to the factory.</p><p>On December 11, 1886, Dial Square romped to a 6-0 victory over Eastern Wanderers; the first game in their initial guise. Shortly afterwards the name ‘Royal Arsenal’ was adopted.A group of players from Nottingham Forest joined the Club and this connection with the future European Cup winners would spawn Arsenal’s famous red shirts.</p>"
+  },
+  {
+    "id": "5b6f4333031d9da24fc6a607",
+    "name": "Leicester City",
+    "picture": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/598117/Leicester.png",
+    "description": "<p>The club was founded in 1884 as Leicester Fosse,[3] playing on a field near Fosse Road. The name Leicester City was adopted in 1919. They moved to Filbert Street in 1891 and played there for 111 years,[4] before moving to the nearby Walkers Stadium in 2002. They renamed the stadium the King Power Stadium after a change of ownership in 2011. </p><p>Leicester City were elected to the Football League in 1894. The club's highest ever finish was second place in the top flight, in Division One in 1928–29. The club holds a joint-highest seven second tier titles (six Second Division and one Championship), as well as one League One title..</p>"
+  },
+  {
+    "id": "5b6f43338ceb33067997f31a",
+    "name": "West Ham United",
+    "picture": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/598117/westham.jpg",
+    "description": "<p>West Ham have been winners of the FA Cup three times, in 1964, 1975, and 1980, and have also been runners-up twice, in 1923, and 2006. The club have reached two major European finals, winning the European Cup Winners Cup in 1965 and finishing runners up in the same competition in 1976. West Ham also won the Intertoto Cup in 1999. They are one of eight clubs never to have fallen below the second tier of English football, spending 58 of 90 league seasons in the top flight. The club's highest league position to date came in 1985–86 when they achieved third place in the then First Division.</p><p>Three West Ham players were members of the 1966 World Cup final-winning England team: captain Bobby Moore and goalscorers Geoff Hurst and Martin.</p>"
+  },
+  {
+    "id": "5b6f43338ceb33067991127f31a",
+    "name": "Manchester United",
+    "picture": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+    "description": "<p>Professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. Nicknamed 'the Red Devils', the club was founded as Newton Heath LYR Football Club in 1878, changed its name to Manchester United in 1902 and moved to its current stadium, Old Trafford, in 1910.West Ham have been winners of the FA Cup three times, in 1964, 1975, and 1980, and have also been runners-up twice, in 1923, and 2006.</p><p>The club have reached two major European finals, winning the European Cup Winners Cup in 1965 and finishing runners up in the same competition in 1976. West Ham also won the Intertoto Cup in 1999. They are one of eight clubs never to have fallen below the second tier of English football, spending 58 of 90 league seasons in the top flight. The club's highest league position to date came in 1985–86 when they achieved third place in the then First Division.</p>"
+  }
+]

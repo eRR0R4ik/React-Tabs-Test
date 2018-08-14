@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: TabHeader should render correctly 1`] = `
+<ul
+  className="phases-tabs"
+>
+  <Tab
+    activeClass="phase-1 "
+    index={0}
+    key="content undefined"
+    name="mockName1"
+    onClick={[Function]}
+  />
+  <Tab
+    activeClass="phase-2 __active"
+    index={1}
+    key="content undefined"
+    name="mockName2"
+    onClick={[Function]}
+  />
+</ul>
+`;

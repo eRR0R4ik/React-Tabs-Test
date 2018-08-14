@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: Description should render correctly 1`] = `
+<div
+  className="phases-img"
+>
+  <img
+    src="mockPics"
+    style={
+      Object {
+        "float": "left",
+        "padding": "0 25px 0 0",
+        "width": "250px",
+      }
+    }
+  />
+  <h4>
+    mockName
+  </h4>
+  <div
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": "mockDescription",
+      }
+    }
+  />
+</div>
+`;

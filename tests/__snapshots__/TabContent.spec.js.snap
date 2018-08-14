@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: TabContent should render correctly 1`] = `
+<div
+  className="phases-container"
+>
+  <div
+    className="phases-tabbox "
+    key="content undefined"
+  >
+    <div
+      className="phases-content"
+    >
+      <Description
+        description="mockDescription1"
+        name="mockName1"
+        picture="mockPics1"
+      />
+      <hr />
+      <Details />
+    </div>
+  </div>
+  <div
+    className="phases-tabbox __active"
+    key="content undefined"
+  >
+    <div
+      className="phases-content"
+    >
+      <Description
+        description="mockDescription2"
+        name="mockName2"
+        picture="mockPics2"
+      />
+      <hr />
+      <Details />
+    </div>
+  </div>
+</div>
+`;
